@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(196, 196, 196);
+}
+
+.head {
+    color: white;
+    border: solid;
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+    padding: auto;
+}
+
+.button {
+    border-radius: 50px;
+}
+
+.weather {
+    justify-content: center;
+    border: black solid;
+    margin: auto;
+    padding: auto;
+}
