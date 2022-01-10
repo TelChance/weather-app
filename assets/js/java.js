@@ -13,5 +13,6 @@ searchButton.addEventListener('click', function(){
 $(document).ready(function() {
     $(".button").click(function() {
         $("ul").append("<li></li>");
-    });
+    })
+  });
    
