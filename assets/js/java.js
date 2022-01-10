@@ -1,4 +1,4 @@
-var searchButton = document.querySelector('#bttn');
+var searchButton = document.querySelector('#button');
 var inputValue = document.querySelector('.inputValue');
 
 
