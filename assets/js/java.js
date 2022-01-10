@@ -9,10 +9,3 @@ searchButton.addEventListener('click', function(){
 .then(response => response.json())
 .then(data => console.log(data))
 });
-
-$(document).ready(function() {
-    $(".button").click(function() {
-        $("ul").append("<li></li>");
-    })
-  });
-   
